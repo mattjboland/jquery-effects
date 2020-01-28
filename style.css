@@ -78,10 +78,6 @@ div {
 	background-color: #fff;
 }
 
-.highlight_stream {
-	background-color: #EB5255;
-}
-
 #my_footer {
 	width:100%;
 	text-align: center;
@@ -143,6 +139,14 @@ li {
 
 .border {
     border: solid 5px #ccc;
+}
+
+.stream-nav{
+    cursor: pointer;
+}
+
+.card-highlight{
+    background-color: red;
 }
 
 @media screen and (max-width: 700px) {
